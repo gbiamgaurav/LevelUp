@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 scratchpad/build_python_day06.py)",
+      "Bash(python3 \"/private/tmp/claude-501/-Users-gauravb-Documents-Tutorials-LevelUp/1e470daf-baeb-4a63-bfc5-9a31bad9a5be/scratchpad/build_python_day06.py\")",
+      "Bash(python3 \"/private/tmp/claude-501/-Users-gauravb-Documents-Tutorials-LevelUp/1e470daf-baeb-4a63-bfc5-9a31bad9a5be/scratchpad/build_lg_day06.py\")",
+      "Bash(unzip -p LevelUp.xlsx xl/sharedStrings.xml)",
+      "Bash(python3 -c \"import sys,re; t=sys.stdin.read\\(\\); items=re.findall\\(r'<t[^>]*>\\(.*?\\)</t>', t, re.S\\); [print\\(i,'::',x[:200]\\) for i,x in enumerate\\(items\\)]\")",
+      "Bash(python3 -c \"import sys,re; t=sys.stdin.read\\(\\); items=re.findall\\(r'<t[^>]*>\\(.*?\\)</t>', t, re.S\\); [print\\(i,'::',x[:300].replace\\(chr\\(10\\),' | '\\)\\) for i,x in enumerate\\(items\\) if 555<=i<=580]\")",
+      "Bash(python3 -c ' *)",
+      "Bash(python3 /private/tmp/claude-501/-Users-gauravb-Documents-Tutorials-LevelUp/87a56901-6c52-401c-a771-28f9ccf4d2b6/scratchpad/build_py.py)",
+      "Bash(python3 -c \"import jupyter\")",
+      "Bash(python3 -c \"import nbconvert,nbclient,ipykernel; print\\('nbtools ok'\\)\")"
+    ]
+  }
+}
