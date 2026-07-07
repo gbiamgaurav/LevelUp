@@ -10,7 +10,18 @@
       "Bash(python3 -c ' *)",
       "Bash(python3 /private/tmp/claude-501/-Users-gauravb-Documents-Tutorials-LevelUp/87a56901-6c52-401c-a771-28f9ccf4d2b6/scratchpad/build_py.py)",
       "Bash(python3 -c \"import jupyter\")",
-      "Bash(python3 -c \"import nbconvert,nbclient,ipykernel; print\\('nbtools ok'\\)\")"
+      "Bash(python3 -c \"import nbconvert,nbclient,ipykernel; print\\('nbtools ok'\\)\")",
+      "Bash(.venv/bin/python -c ' *)",
+      "Bash(.venv/bin/python -c \"import structlog; print\\('structlog', structlog.__version__\\)\")",
+      "Bash(.venv/bin/python -c \"import langsmith; print\\('langsmith', langsmith.__version__\\)\")",
+      "Bash(.venv/bin/pip install *)",
+      "Bash(.venv/bin/python -m pip install structlog -q)",
+      "Bash(VIRTUAL_ENV=.venv uv pip install structlog -q)",
+      "Bash(.venv/bin/python -c \"import nbformat\")",
+      "Bash(.venv/bin/python /private/tmp/claude-501/-Users-gauravb-Documents-Tutorials-LevelUp/c061bf7d-e6b5-4399-9c96-e051ccd840ea/scratchpad/build_py8.py)",
+      "Bash(sed -i '' '/^import iter$/d' /private/tmp/claude-501/-Users-gauravb-Documents-Tutorials-LevelUp/c061bf7d-e6b5-4399-9c96-e051ccd840ea/scratchpad/proto.py)",
+      "Bash(.venv/bin/python /private/tmp/claude-501/-Users-gauravb-Documents-Tutorials-LevelUp/c061bf7d-e6b5-4399-9c96-e051ccd840ea/scratchpad/proto.py)",
+      "Bash(.venv/bin/python /private/tmp/claude-501/-Users-gauravb-Documents-Tutorials-LevelUp/c061bf7d-e6b5-4399-9c96-e051ccd840ea/scratchpad/build_lg8.py)"
     ]
   }
 }

@@ -10,3 +10,6 @@ langgraph
 langgraph-checkpoint-sqlite
 grandalf
 mypy
+structlog
+langsmith
+
