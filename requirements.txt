@@ -3,6 +3,7 @@ jupyter
 ipykernel
 python-dotenv
 pydantic>=2.7
+pydantic-settings
 langchain>=0.3
 langchain-core>=0.3
 langchain-google-genai
