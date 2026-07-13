@@ -21,6 +21,9 @@ pyarrow
 sentence-transformers
 faiss-cpu
 memory-profiler
+pytest
+ragas
+datasets
 ijson
 pyyaml
 
