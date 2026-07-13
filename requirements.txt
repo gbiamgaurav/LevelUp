@@ -5,6 +5,8 @@ python-dotenv
 pydantic>=2.7
 pydantic-settings
 langchain>=0.3
+langchain-classic
+langchain-text-splitters
 langchain-core>=0.3
 langchain-google-genai
 langgraph
@@ -13,4 +15,12 @@ grandalf
 mypy
 structlog
 langsmith
+numpy
+pandas
+pyarrow
+sentence-transformers
+faiss-cpu
+memory-profiler
+ijson
+pyyaml
 
